@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jindu Kwentua. on Jindu Kwentua</title>
+    <link>https://jindukwentua.github.io/my_portfolio/</link>
+    <description>Recent content in Jindu Kwentua. on Jindu Kwentua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jindukwentua.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Path</title>
+      <link>https://jindukwentua.github.io/my_portfolio/about/courses-learning-track/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/about/courses-learning-track/</guid>
+      <description>Bootcamps/Accelerator Programs
+ Stutern Graduate Accelerator Data Science/Machine Learning Track. AI Saturday Lagos Deep Learning Track Hash Analytics Virtual Internship Hash Analytics CovenWorks AI Data Science/Machine Learning Bootcamp Coven Labs AI  MOOCS
+ Coursera - Introduction to Data Science in Python Coursera - Applied Machine Learning in Python Coursera - AI For Everyone Coursera - Introduction to Probability and Data with R Coursera - Neural Networks and Deep Learning Udacity - Intro to Deep Learning with PyTorch EDX - Principles of Machine Learning: Python Edition EDX - The Analytics Edge EDX - Analyzing Data with Python AWS - Analytics and Big Data Google Analytics - Google Analytics for Beginners Google Analytics - Advanced Google Analytics  </description>
+    </item>
+    
+    <item>
+      <title>My Experience</title>
+      <link>https://jindukwentua.github.io/my_portfolio/about/work-experience/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/about/work-experience/</guid>
+      <description>December 2019 - Present
+ Data Scientist - Stutern Graduate Accelerator  Janaury 2020 - March 2020
+ Data Science Intern - Pantote Solutions LLC  January 2020 - March 2020
+ Data Science Intern - Hash Analytics  September 2019 - December 2019
+ Data Science Intern - Coven Labs AI  November 2018 - September 2019
+ Research Analyst - Capital Express Securities  </description>
+    </item>
+    
+    <item>
+      <title>SOCIAL MEDIA AND SENTIMENT ANALYSIS: THE PAST 2 NIGERIAN ELECTIONS</title>
+      <link>https://jindukwentua.github.io/my_portfolio/post/project-1/</link>
+      <pubDate>Fri, 29 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/post/project-1/</guid>
+      <description>Twitter undoubtedly contains a diverse range of political insight and commentary. To what extent is this representative of an electorate? Can we analyze political sentiment effectively enough to capture the voting intentions of a nation during an election campaign? In this present day, social media platforms are playing a vital role in influencing people’s sentiment in favour or against a government or an organization. Twitter-based data is not inherently a representative sample of society.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis on COVID-19</title>
+      <link>https://jindukwentua.github.io/my_portfolio/post/project-3/</link>
+      <pubDate>Thu, 30 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/post/project-3/</guid>
+      <description>On 11th March 2020, World Health Organization announced COVID19 outbreak as a pandemic. Starting from China, this virus has infected and killed thousands of people from Italy, Spain, USA, Iran and other countries as well. While this pandemic has continued to affect the lives of millions, a number of countries have resorted to complete lockdown. During this lockdown, people have taken social networks to express their feelings and find a way to calm themselves down.</description>
+    </item>
+    
+    <item>
+      <title>Data Science and Loan Applications. What can we learn about loans in Nigeria?</title>
+      <link>https://jindukwentua.github.io/my_portfolio/post/project-2/</link>
+      <pubDate>Thu, 30 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/post/project-2/</guid>
+      <description>With the innovation in the banking/financial sector, people are applying for bank loans but the banks have its limited assets which it has to grant to limited people only, so finding out to whom loans can be granted to will be a safer option for the bank. In this project we try to reduce this risk factor behind selecting the safe person so as to save lots of bank efforts and assets.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jindukwentua.github.io/my_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/contact/</guid>
+      <description>You can reach me or follow me on these social media platforms.
+   Platforms      Website    Twitter    LinkedIn    Medium    GitHub     </description>
+    </item>
+    
+  </channel>
+</rss>

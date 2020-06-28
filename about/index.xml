@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jindu Kwentua</title>
+    <link>https://jindukwentua.github.io/my_portfolio/about/</link>
+    <description>Recent content in About on Jindu Kwentua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jindukwentua.github.io/my_portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Path</title>
+      <link>https://jindukwentua.github.io/my_portfolio/about/courses-learning-track/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/about/courses-learning-track/</guid>
+      <description>Bootcamps/Accelerator Programs
+ Stutern Graduate Accelerator Data Science/Machine Learning Track. AI Saturday Lagos Deep Learning Track Hash Analytics Virtual Internship Hash Analytics CovenWorks AI Data Science/Machine Learning Bootcamp Coven Labs AI  MOOCS
+ Coursera - Introduction to Data Science in Python Coursera - Applied Machine Learning in Python Coursera - AI For Everyone Coursera - Introduction to Probability and Data with R Coursera - Neural Networks and Deep Learning Udacity - Intro to Deep Learning with PyTorch EDX - Principles of Machine Learning: Python Edition EDX - The Analytics Edge EDX - Analyzing Data with Python AWS - Analytics and Big Data Google Analytics - Google Analytics for Beginners Google Analytics - Advanced Google Analytics  </description>
+    </item>
+    
+    <item>
+      <title>My Experience</title>
+      <link>https://jindukwentua.github.io/my_portfolio/about/work-experience/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jindukwentua.github.io/my_portfolio/about/work-experience/</guid>
+      <description>December 2019 - Present
+ Data Scientist - Stutern Graduate Accelerator  Janaury 2020 - March 2020
+ Data Science Intern - Pantote Solutions LLC  January 2020 - March 2020
+ Data Science Intern - Hash Analytics  September 2019 - December 2019
+ Data Science Intern - Coven Labs AI  November 2018 - September 2019
+ Research Analyst - Capital Express Securities  </description>
+    </item>
+    
+  </channel>
+</rss>
